@@ -1,0 +1,11 @@
+# Placeholder ROI definitions for the OMR sheet.
+student_id:
+  top_left: [10, 10]
+  bottom_right: [200, 60]
+set_code:
+  top_left: [210, 10]
+  bottom_right: [260, 60]
+items:
+  columns: 5
+  rows: 20
+  bubble_size: 18
