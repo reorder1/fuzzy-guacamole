@@ -1,0 +1,10 @@
+django>=5.0
+psycopg[binary]
+djangorestframework
+djangorestframework-simplejwt
+django-cors-headers
+Pillow
+opencv-python-headless
+numpy
+python-dotenv
+dj-database-url
